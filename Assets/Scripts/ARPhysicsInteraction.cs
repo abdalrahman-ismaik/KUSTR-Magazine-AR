@@ -1,4 +1,5 @@
 // ARPhysicsInteraction.cs
+using UnityEngine;
 public class ARPhysicsInteraction : MonoBehaviour
 {
     [SerializeField] private float forceMultiplier = 10f;

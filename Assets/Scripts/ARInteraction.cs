@@ -1,4 +1,5 @@
 // ARInteraction.cs
+using UnityEngine;
 public class ARInteraction : MonoBehaviour
 {
     [SerializeField] private Animator objectAnimator;

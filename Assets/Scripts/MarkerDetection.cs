@@ -1,4 +1,5 @@
 // MarkerDetection.cs
+using System.Collections.Generic;  // Add this line
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
