@@ -16,4 +16,54 @@ MonoBehaviour:
   m_GuidHigh: 12839480132300738732
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5578199206971296770
+      m_GuidHigh: 4697850506271902386
+    m_SerializedTextureGuid:
+      m_GuidLow: 4811020791473947046
+      m_GuidHigh: 3625103614195982666
+    m_Size: {x: 0.05, y: 0.04521073}
+    m_SpecifySize: 1
+    m_Name: Chess_16
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5635003248393021557
+      m_GuidHigh: 10069286496928329663
+    m_SerializedTextureGuid:
+      m_GuidLow: 370536314568055030
+      m_GuidHigh: 14461964459665196586
+    m_Size: {x: 0.05, y: 0.05757576}
+    m_SpecifySize: 1
+    m_Name: Chip_33
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5668282777913397077
+      m_GuidHigh: 17382842735148434310
+    m_SerializedTextureGuid:
+      m_GuidLow: 9152588957438321662
+      m_GuidHigh: 12874755895209275227
+    m_Size: {x: 0.05, y: 0.0480456}
+    m_SpecifySize: 1
+    m_Name: Eye_1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5721446333943256621
+      m_GuidHigh: 9937623366662170801
+    m_SerializedTextureGuid:
+      m_GuidLow: 978665723288575474
+      m_GuidHigh: 12289224036605847545
+    m_Size: {x: 0.05, y: 0.03801527}
+    m_SpecifySize: 1
+    m_Name: Plane_60
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5334530068556916449
+      m_GuidHigh: 9664038980658483886
+    m_SerializedTextureGuid:
+      m_GuidLow: 16669196607084517744
+      m_GuidHigh: 12268424212539022651
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: Robot_57
+    m_Texture: {fileID: 0}
