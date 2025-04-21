@@ -19,7 +19,8 @@ This repository contains the WebAR implementation for KUSTR Magazine Issue 4 (Au
 
 ### Live Demo
 The WebAR experience is hosted on CodePen:
-👉 [KUSTR Magazine Issue 4 AR Experience]([URL to navigate](https://codepen.io/4bi-dev/pen/QwwjVbN))
+
+👉 ([KUSTR Magazine Issue 4 AR Experience](https://codepen.io/4bi-dev/pen/QwwjVbN))
 
 ### How to Use
 1. Open the CodePen link on a mobile device
@@ -46,26 +47,24 @@ Our team created additional WebAR experiences for KUSTR Magazine Issue 5, featur
 Our HoloLens Mixed Reality application integrates various MRTK features to create an immersive and interactive environment.
 
 ### Features
-- Hand Tracking & Pinch Selection: Natural interaction through hand gestures
-- Canvas UI Elements: Floating interface with color selection and tool buttons
-- Custom 3D Nature Scene: Immersive environment with optimized rendering
-- Hand Mesh Overlay: Visual feedback synchronized with user hand movements
-- Voice Commands: Hands-free control of application features
-- RGB Sliders: Granular color control and customization
+- **Hand Tracking & Pinch Selection**: Natural interaction through hand gestures
+- **Canvas UI Elements**: Floating interface with color selection and tool buttons
+- **Custom 3D Nature Scene**: Immersive environment with optimized rendering
+- **Hand Mesh Overlay**: Visual feedback synchronized with user hand movements
+- **Voice Commands**: Hands-free control of application features
+- **RGB Sliders**: Granular color control and customization
 
-Repository Link
+### Project Files Link
 The Unity project files for our HoloLens application can be accessed here:
-HoloLens MR Project Repository
-Team Members
+- [HoloLens MR Project Files](https://drive.google.com/file/d/18H-Lwt9kTUU9qJqkWec8oclPNL5bzrgt/view)
 
-John Doe
-Jane Smith
-Alex Johnson
-Sam Williams
+### Team Members
+- Faisal Alzarooni
+- Tehsin Shaik
+- Abd Alrahman Ismaik
 
-Course Information
-
-Course: COSC 495: Introduction to Game Development
-Instructors: Dr. Lamees Alqassem and Dr. Jamal Zemerly
-Semester: Spring 2025
-Assignment: Mixed Reality & WebAR Development (Assignment 3)
+### Course Information
+- **Course**: COSC 495 - Introduction to Game Development
+- **Instructors**: Dr. Lamees Alqassem and Dr. Jamal Zemerly
+- **Semester**: Spring 2025
+- **Assignment**: Mixed Reality & WebAR Development (Assignment 3)
