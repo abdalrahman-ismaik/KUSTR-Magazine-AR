@@ -1,7 +1,9 @@
 # COSC 495: Assignment 3 - Mixed Reality & WebAR Development
+![image](https://github.com/user-attachments/assets/c7c5e0c9-0183-4036-a591-9bfb9e14e0d9)
 This repository contains our submission for Assignment 3 of COSC 495: Introduction to Game Development. The project explores Mixed Reality (MR) features through Microsoft HoloLens and Web-based Augmented Reality (WebAR) implementations.
 
 ## Part 1: KUSTR Magazine Issue 4 WebAR Experience
+![image](https://github.com/user-attachments/assets/98627611-f6c3-4e8e-9d59-05985f5336c8)
 This repository contains the WebAR implementation for KUSTR Magazine Issue 4 (August 2024), themed "The Rise of AI". The experience uses marker-based AR to display interactive 3D models when specific patterns in the magazine are scanned.
 
 ### Features
@@ -30,6 +32,7 @@ The WebAR experience is hosted on CodePen:
 5. Toggle animations using the control buttons
 
 ## Part 2: KUSTR Magazine Issue 5 WebAR Experience
+![image](https://github.com/user-attachments/assets/5c9798ab-8497-4565-bf22-a6cfc14bc6e3)
 Our team created additional WebAR experiences for KUSTR Magazine Issue 5, featuring different interactive markers with unique animations and educational content.
 
 ### Features
